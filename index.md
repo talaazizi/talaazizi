@@ -7,18 +7,18 @@ I also have a diploma in experimental sciences.
 09196812031
 
 ### Personal information
-First name : Tala
++ First name : Tala
 
-Last name : Azizi
++ Last name : Azizi
 
-Birth Day : 27 farvardin 1379
++ Birth Day : 27 farvardin 1379
 
 ### Languages
-Persian
++ Persian
 
-Turkish
++ Turkish
 
-English(Intermediate)
++ English(Intermediate)
 
 ### Skills
 + Write text and poetry
@@ -47,18 +47,18 @@ Design and implementation of university curriculum projects (free of charge)
 09196812031
 
 ### اطلاعات شخصی
-نام: طلا
++ نام: طلا
 
-نام خانوادگی : عزیزی
++ نام خانوادگی : عزیزی
 
-تولد: 27 فروردین 1379
++ تولد: 27 فروردین 1379
 
 ### زبان
-فارسی
++ فارسی
 
-ترکی
++ ترکی
 
-(انگلیسی  (متوسط
++ (انگلیسی  (متوسط
 
 ### مهارت ها
 + نوشتن متن و شعر
@@ -69,6 +69,6 @@ Design and implementation of university curriculum projects (free of charge)
 + کار کردن با نرم افزار SQL Server
   
 ### سوابق کاری
-طراحی و اجرای پروژه های درسی دانشگاه (بصورت رایگان)
++ (طراحی و اجرای پروژه های درسی دانشگاه (بصورت رایگان
 
 ### گواهی مهارت 
