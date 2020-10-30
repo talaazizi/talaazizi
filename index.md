@@ -23,6 +23,7 @@ I also have a diploma in experimental sciences.
 ### Skills
 + Write text and poetry
 + Photo design
++ Solve physics problems
 + Latex typing
 + ICDL skills
 + Programming in Java language
@@ -63,6 +64,7 @@ I also have a diploma in experimental sciences.
 ### مهارت ها
 + نوشتن متن و شعر
 + طراحی عکس
++ حل مسائل فیزیک
 + تایپ لاتکس
 + مهارت های ICDL
 + برنامه نویسی به زبان جاوا
