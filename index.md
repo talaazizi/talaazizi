@@ -29,7 +29,7 @@ I also have a diploma in experimental sciences.
 + Working with SQL Server software
  
  ### Work Experience
-Design and implementation of university curriculum projects (free of charge)
++ Design and implementation of university curriculum projects (free of charge)
 
 ### Certifications
 
