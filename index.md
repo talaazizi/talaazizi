@@ -63,7 +63,7 @@ I also have a diploma in experimental sciences.
 
 ### مهارت ها
 + تایپ لاتکس
-+ مهارت های ICDL
++ مهارت هایICDL
 + برنامه نویسی به زبان جاوا
 + کار کردن با نرم افزار SQL Server
 + نوشتن متن و شعر
