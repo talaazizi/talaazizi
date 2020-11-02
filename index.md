@@ -21,13 +21,13 @@ I also have a diploma in experimental sciences.
 + English(Intermediate)
 
 ### Skills
-+ Write text and poetry
-+ Photo design
-+ Solve physics problems
 + Latex typing
 + ICDL skills
 + Programming in Java language
 + Working with SQL Server software
++ Write text and poetry
++ Photo design
++ Solve physics problems
  
 ### Work Experience
 + Design and implementation of university curriculum projects (free of charge)
@@ -62,13 +62,14 @@ I also have a diploma in experimental sciences.
 + (انگلیسی  (متوسط
 
 ### مهارت ها
-+ نوشتن متن و شعر
-+ طراحی عکس
-+ حل مسائل فیزیک
 + تایپ لاتکس
 + مهارت های ICDL
 + برنامه نویسی به زبان جاوا
 + کار کردن با نرم افزار SQL Server
++ نوشتن متن و شعر
++ طراحی عکس
++ حل مسائل فیزیک
+
   
 ### سوابق کاری
 + (طراحی و اجرای پروژه های درسی دانشگاه (بصورت رایگان
