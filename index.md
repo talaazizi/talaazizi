@@ -23,7 +23,8 @@ I also have a diploma in experimental sciences.
 ### Skills
 + Latex typing
 + ICDL skills
-+ Programming in Java language
++ Java programming
++ C programming language
 + Working with SQL Server software
 + Write text and poetry
 + Photo design
@@ -65,7 +66,8 @@ I also have a diploma in experimental sciences.
 + تایپ لاتکس
 + مهارت های ICDL
 + برنامه نویسی به زبان جاوا
-+ کار کردن با نرم افزار SQL Server
++ برنامه نویسی به زبان C 
++ کار کردن با نرم افزار SQL Server 
 + نوشتن متن و شعر
 + طراحی عکس
 + حل مسائل فیزیک
