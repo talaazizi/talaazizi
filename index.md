@@ -29,7 +29,7 @@ I also have a diploma in experimental sciences.
 + Programming in Java language
 + Working with SQL Server software
  
- ### Work Experience
+### Work Experience
 + Design and implementation of university curriculum projects (free of charge)
 
 ### Certifications
@@ -45,7 +45,7 @@ I also have a diploma in experimental sciences.
 من نیز دیپلم علوم تجربی هم دارم.
 
 ### شماره تماس 
-09196812031
++ 09196812031
 
 ### اطلاعات شخصی
 + نام: طلا
