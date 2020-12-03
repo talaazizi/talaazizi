@@ -1,10 +1,12 @@
 <img src="https://avatars1.githubusercontent.com/u/69281750?s=460&u=b0ce20e5cfb5f182f05bde5f55cb61b85f08420b&v=4"/>
+
 ### About Me
 I am Tala Azizi , born on 1379/01/27
 I am a bachelor student of Payame Noor University of North Tehran with a major in computer software engineering, entrance 97;
 I also have a diploma in experimental sciences.
+
 ### phon number
-09196812031
++ 09196812031
 
 ### Personal information
 + First name : Tala
