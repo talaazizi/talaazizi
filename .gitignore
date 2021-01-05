@@ -1,0 +1,16 @@
+  
+.DS_Store
+node_modules/
+dist/
+npm-debug.log*
+debug.log
+test/unit/coverage
+test/e2e/reports
+selenium-debug.log
+.idea/
+*.orig
+.history
+test-results.xml
+
+config/prod.secret.config.js
+config/local.secret.config.js
