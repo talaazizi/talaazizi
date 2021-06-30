@@ -1,8 +1,8 @@
 <img src="https://avatars1.githubusercontent.com/u/69281750?s=460&u=b0ce20e5cfb5f182f05bde5f55cb61b85f08420b&v=4"/>
 
 ### About Me
-I am Tala Azizi , born on 1379/01/27
-I am a bachelor student of Payame Noor University of North Tehran with a major in computer software engineering, entrance 97;
+I am dear, born on 1379/01/27
+I am a bachelor student of Payame Noor University of Tehran, North, majoring in Computer Engineering, entrance 97
 I also have a diploma in experimental sciences.
 
 ### phon number
@@ -25,17 +25,28 @@ I also have a diploma in experimental sciences.
 ### Skills
 + Latex typing
 + ICDL skills
-+ Java programming
-+ C programming language
++ Network+
++ CCNA
++ CCNP
++ MCSE
++ CEH
 + Working with SQL Server software
 + Write text and poetry
 + Photo design
-+ Solve physics problems
+
  
 ### Work Experience
-+ Design and implementation of university curriculum projects (free of charge)
++ Install Windows
++ Install DHCP
++ VMware
++ Routing
++ Sowitching
 
 ### Certifications
++ Network+
++ CCNA
++ MCSA
++ CEH
 
 ### Contact Me
 - Gmail: talaazizi2779@gmail.com
