@@ -31,7 +31,6 @@ I also have a diploma in experimental sciences.
 + MCSE
 + CEH
 + Working with SQL Server software
-+ Write text and poetry
 + Photo design
 
  
@@ -81,7 +80,6 @@ I also have a diploma in experimental sciences.
 + CCNA
 + MCSE 
 + SQL Server کار کردن با نرم افزار  
-+ نوشتن متن و شعر
 + طراحی عکس
 + CCNP
 + Network+
