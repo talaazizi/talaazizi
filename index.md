@@ -79,11 +79,11 @@ I also have a diploma in experimental sciences.
 + ICDL مهارت های 
 + CCNA
 + MCSE 
-+ SQL Server کار کردن با نرم افزار  
-+ طراحی عکس
 + CCNP
 + Network+
 + CEH
++ SQL Server کار کردن با نرم افزار  
++ طراحی عکس
 
   
 ### سوابق کاری
